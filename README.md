@@ -1,9 +1,12 @@
 # Hi, I'm Hudino 👋
 
-I study at **IECSA, UNAQ**, and I build tested Python for **quantitative finance**.
+I'm an engineering student in **Aircraft Electronics & Control Systems (IECSA)**
+at **Universidad Aeronáutica en Querétaro (UNAQ)**, and I build tested Python for
+**quantitative finance**.
 
-I turn finance research papers into clean, reproducible backtests — with version
-control, unit tests, and continuous integration, the way real teams work.
+I bring an engineer's habits to markets: I turn finance research papers into
+clean, reproducible backtests — with version control, unit tests, and continuous
+integration, the way real teams work.
 
 ## Projects
 
