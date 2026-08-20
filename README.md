@@ -1,37 +1,28 @@
 # Hi, I'm Hudino 👋
 
-**Aspiring quantitative developer** — I build clean, tested Python that turns
-academic finance research into reproducible backtests.
+I study at **IECSA, UNAQ**, and I build tested Python for **quantitative finance**.
 
-I'm learning software engineering the right way: version control, unit tests,
-continuous integration and clear documentation, applied to real quant problems.
+I turn finance research papers into clean, reproducible backtests — with version
+control, unit tests, and continuous integration, the way real teams work.
 
----
+## Projects
 
-### 🔭 Featured project
+**[Overnight Drift](https://github.com/Hudino0/overnight-drift)**
+The S&P 500 earns almost all of its gain overnight, not during the trading day.
+A tested replication of a New York Fed paper, plus a variant of my own. The
+overnight-only strategy earns ~10% a year at half the risk of buy & hold.
 
-**[Overnight Drift](https://github.com/Hudino0/overnight-drift)** — a tested
-replication of *"The Overnight Drift"* (Boyarchenko, Larsen & Whelan, FRBNY).
-Using free daily data, it shows that essentially all of the U.S. equity risk
-premium is earned **overnight** (close → open) rather than intraday.
-
-- Overnight-only strategy: **~10% annual / Sharpe 0.96** vs buy & hold's 0.65
-- Includes an original "only-after-a-down-day" variant + full test suite + CI
-
----
-
-### 🛠️ Tech I work with
+## Tools
 
 `Python` · `pandas` · `NumPy` · `matplotlib` · `pytest` · `ruff` · `git` · `GitHub Actions`
 
-### 📚 Currently learning
+## Learning now
 
-Professional software practices (clean architecture, testing, CI/CD) and
-quantitative finance / systematic trading.
+Professional software practices and systematic trading.
 
-### 📫 How to reach me
+## Reach me
 
 - Email: dino0545@gmail.com
 - GitHub: [@Hudino0](https://github.com/Hudino0)
 
-<sub>Portfolio in progress — new projects added regularly.</sub>
+<sub>Portfolio in progress — I add new projects regularly.</sub>
